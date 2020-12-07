@@ -1,6 +1,6 @@
 import React from "react";
 import { useOptionsDialogStyles } from "../../styles";
-import { Dialog, Zoom, Button, Divider, Typography } from "@material-ui/core";
+import { Dialog, Zoom, Button, Divider} from "@material-ui/core";
 import { Link } from "react-router-dom";
 import { defaultPost } from "../../data";
 

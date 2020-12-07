@@ -3,7 +3,6 @@ import { useSignUpPageStyles } from "../styles";
 import SEO from "../components/shared/Seo";
 import {
   Card,
-  CardHeader,
   TextField,
   Button,
   Typography,
